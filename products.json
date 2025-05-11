@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Noise-Canceling Headphones",
+        "description": "High-quality wireless headphones with active noise cancellation, 30-hour battery life, and comfortable design. Perfect for music lovers and travelers.",
+        "category": "Audio",
+        "price": 199.99
+    },
+    {
+        "id": 2,
+        "name": "4K Ultra HD Smart TV",
+        "description": "55-inch 4K Ultra HD Smart TV with HDR, built-in streaming apps, and voice control. Ideal for home entertainment.",
+        "category": "Electronics",
+        "price": 499.99
+    },
+    {
+        "id": 3,
+        "name": "Gaming Laptop",
+        "description": "Powerful gaming laptop with 16GB RAM, NVIDIA RTX 3060 GPU, and 1TB SSD. Great for gamers and professionals.",
+        "category": "Computers",
+        "price": 1299.99
+    },
+    {
+        "id": 4,
+        "name": "Smartphone with Triple Camera",
+        "description": "Latest smartphone with a triple camera system, 128GB storage, and 5G support. Perfect for photography enthusiasts.",
+        "category": "Mobile",
+        "price": 799.99
+    },
+    {
+        "id": 5,
+        "name": "Smartwatch with Fitness Tracker",
+        "description": "Sleek smartwatch with heart rate monitoring, GPS, and fitness tracking. Syncs with smartphones for notifications and apps.",
+        "category": "Wearables",
+        "price": 149.99
+    },
+    {
+        "id": 6,
+        "name": "Portable Bluetooth Speaker",
+        "description": "Compact Bluetooth speaker with 12-hour battery life and waterproof design. Ideal for outdoor adventures and parties.",
+        "category": "Audio",
+        "price": 79.99
+    },
+    {
+        "id": 7,
+        "name": "Mechanical Gaming Keyboard",
+        "description": "RGB-backlit mechanical keyboard with customizable keys and fast response time. Perfect for competitive gaming.",
+        "category": "Accessories",
+        "price": 99.99
+    },
+    {
+        "id": 8,
+        "name": "Wireless Charging Pad",
+        "description": "Fast wireless charging pad compatible with most smartphones and earbuds. Sleek design for home or office use.",
+        "category": "Accessories",
+        "price": 29.99
+    },
+    {
+        "id": 9,
+        "name": "Ultra-Slim Tablet",
+        "description": "10-inch tablet with 64GB storage, high-resolution display, and long battery life. Great for work and entertainment.",
+        "category": "Mobile",
+        "price": 349.99
+    },
+    {
+        "id": 10,
+        "name": "VR Headset",
+        "description": "Immersive VR headset with 4K resolution and motion tracking. Perfect for gaming and virtual experiences.",
+        "category": "Electronics",
+        "price": 399.99
+    },
+    {
+        "id": 11,
+        "name": "External SSD Drive",
+        "description": "1TB external SSD with USB-C connectivity and fast transfer speeds. Ideal for backups and large files.",
+        "category": "Storage",
+        "price": 129.99
+    },
+    {
+        "id": 12,
+        "name": "Smart Home Security Camera",
+        "description": "Wi-Fi-enabled security camera with night vision, motion detection, and mobile app control. Keeps your home safe.",
+        "category": "Smart Home",
+        "price": 89.99
+    },
+    {
+        "id": 13,
+        "name": "Ergonomic Wireless Mouse",
+        "description": "Wireless mouse with ergonomic design and customizable buttons. Great for productivity and gaming.",
+        "category": "Accessories",
+        "price": 49.99
+    },
+    {
+        "id": 14,
+        "name": "Mini Projector",
+        "description": "Portable mini projector with 1080p resolution and HDMI connectivity. Perfect for home theater or presentations.",
+        "category": "Electronics",
+        "price": 249.99
+    }
+]
